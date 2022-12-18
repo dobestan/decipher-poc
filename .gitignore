@@ -24,3 +24,5 @@ typechain-types
 cache
 artifacts
 
+# Hardhat deploy files
+deployments/
