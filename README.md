@@ -8,3 +8,5 @@ $ npx hardhat deploy
 $ npx hardhat node
 $ npx hardhat run scripts/create_poc_holders.js --network localhost
 ```
+
+# updated
